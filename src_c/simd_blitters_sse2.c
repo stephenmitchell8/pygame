@@ -619,8 +619,6 @@ blit_blend_rgba_mul_sse2(SDL_BlitInfo *info)
     int width = info->width;
     int height = info->height;
 
-    printf("inside rgba mul sse\n");
-
     Uint32 *srcp = (Uint32 *)info->s_pixels;
     Uint64 *srcp64 = (Uint64 *)info->s_pixels;
     int srcskip = info->s_skip >> 2;
