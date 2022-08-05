@@ -46,7 +46,7 @@ Numeric Python
 If you do not have the python NumPy package installed,
 you will need to do that now.
 You can download the package from the
-`NumPy Downloads Page <http://www.scipy.org/scipylib/download.html>`_
+`NumPy Downloads Page <https://numpy.org/install/>`_
 To make sure NumPy is working for you,
 you should get something like this from the interactive python prompt. ::
 
